@@ -1,7 +1,7 @@
 {
-    "version": "1.0.10",
-    "version_code": 10,
-    "download_url": "https://github.com/vectorcargospaserver/VectorCargosPA/releases/download/v1.0.10/VectorCargosPA-v1.0.10.apk",
+    "version": "1.0.11",
+    "version_code": 11,
+    "download_url": "https://github.com/vectorcargospaserver/VectorCargosPA/releases/download/v1.0.11/VectorCargosPA-v1.0.11.apk",
     "changelog": "- Actualizaciones obligatorias y automáticas\n- Cobros a empresas con factura y comprobante\n- Mapa con comunas\n- Nuevo diseño",
     "file_size": 103219320
 }
