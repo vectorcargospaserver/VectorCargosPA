@@ -1,7 +1,7 @@
 {
-    "version": "2.3.1",
-    "version_code": 31,
-    "download_url": "https://github.com/vectorcargospaserver/VectorCargosPA/releases/download/v2.3.1/VectorCargosPA-v2.3.1.apk",
+    "version": "2.3.2",
+    "version_code": 32,
+    "download_url": "https://github.com/vectorcargospaserver/VectorCargosPA/releases/download/v2.3.2/VectorCargosPA-v2.3.2.apk",
     "changelog": "- Actualizaciones obligatorias y automáticas\n- Cobros a empresas con factura y comprobante\n- Mapa con comunas\n- Nuevo diseño",
     "file_size": 103219320
 }
